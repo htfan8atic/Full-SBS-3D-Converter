@@ -1,0 +1,3 @@
+Only needed for Blu-ray 3D (H.264 MVC) files.
+Unzip FRIM (x64) here, from https://www.videohelp.com/software/FRIM
+The app looks for ...\FRIM\x64\FRIMDecode64.exe (or any subfolder) automatically.

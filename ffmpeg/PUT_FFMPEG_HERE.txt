@@ -1,0 +1,2 @@
+Unzip the FFmpeg "full" build here (e.g. ffmpeg-release-full.7z from https://www.gyan.dev/ffmpeg/builds/).
+The app looks for ...\ffmpeg\<build folder>\bin\ffmpeg.exe or ...\ffmpeg\bin\ffmpeg.exe automatically.
