@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="Full SBS 3D" width="200"></p>
+<p align="center"><img src="3d-logo-github.png" alt="Full SBS 3D" width="200"></p>
 
 # 👓 Full SBS 3D Converter
 
@@ -9,7 +9,7 @@ A Windows app for converting 3D videos or movies into **Full Side-by-Side (FSBS)
 - **3840×1080 FSBS**: 1920×1080 per eye = **1080p 3D**, for 1080p 3D TVs and projectors
 - **7680×2160 FSBS**: 3840×2160 per eye = **4K 3D**, keeps full 4K per eye from UHD sources
 
-The app is a graphical front end for **FFmpeg**, plus **FRIM** for Blu-ray 3D. It handles HDR and **Dolby Vision → SDR** tone mapping with adjustable brightness, previews a frame before you convert, and keeps your audio, subtitles and chapters.
+The app is a graphical front end for **FFmpeg**, plus **FRIM** for Blu-ray 3D. It handles **HDR** and **Dolby Vision → SDR** tone mapping with adjustable brightness, previews a frame before you convert, and keeps your audio, subtitles and chapters.
 
 ---
 
