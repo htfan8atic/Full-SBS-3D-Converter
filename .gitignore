@@ -1,0 +1,17 @@
+# Third-party tools are downloaded by each user (see README) - never commit them
+ffmpeg/*
+!ffmpeg/PUT_FFMPEG_HERE.txt
+FRIM/*
+!FRIM/PUT_FRIM_HERE.txt
+# Build output / Python cache
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+# Videos and temporary files
+*.mkv
+*.mp4
+*.mov
+*.h264
+*.yuv
