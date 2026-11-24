@@ -3,6 +3,8 @@ ffmpeg/*
 !ffmpeg/PUT_FFMPEG_HERE.txt
 FRIM/*
 !FRIM/PUT_FRIM_HERE.txt
+x264-mvc/*
+!x264-mvc/PUT_X264-MVC_HERE.txt
 # Build output / Python cache
 build/
 dist/
