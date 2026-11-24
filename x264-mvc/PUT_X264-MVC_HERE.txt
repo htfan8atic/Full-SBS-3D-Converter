@@ -1,0 +1,3 @@
+Only needed for "MVC MKV" output with the x264-mvc encoder.
+Put x264-mvc.exe here (a Windows build of https://github.com/blenheimears/x264-mvc - see README).
+The app looks for ...\x264-mvc\x264-mvc.exe (or x264.exe) automatically.
