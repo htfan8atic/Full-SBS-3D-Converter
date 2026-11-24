@@ -12,6 +12,8 @@ A Windows app for converting 3D videos or movies into **Full Side-by-Side (FSBS)
 
 The app is a graphical front end for **FFmpeg**, plus **FRIM** for Blu-ray 3D and **x264-mvc** or **FRIM Encoder** for MVC output. It handles **HDR** and **Dolby Vision → SDR** tone mapping with adjustable brightness, previews a frame before you convert, and keeps your audio, subtitles and chapters.
 
+<p align="center"><img src="app-gui-screenshot.png" alt="Screenshot of the app GUI"></p>
+
 ---
 
 ## Features
